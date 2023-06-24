@@ -4,7 +4,7 @@ requests.packages.urllib3.disable_warnings()
 
 
 API_KEY=""
-SEARCH_FOR="http.favicon.hash:1768726119"
+SEARCH_FOR="http.favicon.hash:3A-855213521"
 
 f=open("url.txt","a")
 
